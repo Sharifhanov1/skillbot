@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bcce9e7-fd8d-4fe4-bad3-caf303ec7edb" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/skillbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/skillbot.iml" afterDir="false" />
+    <list default="true" id="0bcce9e7-fd8d-4fe4-bad3-caf303ec7edb" name="Changes" comment="add block bot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_sync.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/habits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/history.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/welcome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secret.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_bot/bot.log" beforeDir="false" afterPath="$PROJECT_DIR$/todo_bot/bot.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_bot/tasks.db" beforeDir="false" afterPath="$PROJECT_DIR$/todo_bot/tasks.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +249,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739809009633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add block bot">
+      <option name="closed" value="true" />
+      <created>1746376794683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746376794683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add block bot">
+      <option name="closed" value="true" />
+      <created>1746376806042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746376806042</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add block bot">
+      <option name="closed" value="true" />
+      <created>1746376815423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746376815423</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +289,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add block bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="add block bot" />
   </component>
 </project>
